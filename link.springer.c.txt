@@ -1,0 +1,22 @@
+
+link.springer.com
+Neck circumference as an effective measure for identifying cardio-metabolic syndrome: a comparison with waist circumference
+Yuqi Luo, Xiaojing Ma, Yun Shen, Yiting Xu, Qin Xiong, Xueli Zhang, Yunfeng Xiao, Yuqian Bao, Weiping Jia
+Endocrine 55 (3), 822-830, 2017
+Neck circumference is a new anthropometric index for estimating obesity. We aimed to determine the relationship between neck circumference and body fat content and distribution as well as the efficacy of neck circumference for identifying visceral adiposity and metabolic disorders. A total of 1943 subjects (783 men, 1160 women) with a mean age of 58 ± 7 years were enrolled in this cross-sectional study. Metabolic syndrome was defined according to the standard in the 2013 China Guideline. Analyses were conducted to determine optimal neck circumference cutoff points for visceral adiposity quantified by magnetic resonance imaging, and to compare the performance of neck circumference with that of waist circumference in identifying abdominal obesity and metabolic disorders. Visceral fat content was independently correlated with neck circumference. Receiver operating characteristic curves showed that the area under the curve for the ability of neck circumference to determine visceral adiposity was 0.781 for men and 0.777 for women. Moreover, in men a neck circumference value of 38.5 cm had a sensitivity of 56.1 % and specificity of 83.5 %, and in women, a neck circumference value of 34.5 cm had a sensitivity of 58.1 % and specificity of 82.5 %. These values were the optimal cutoffs for identifying visceral obesity. There were no statistically significant differences between the proportions of metabolic syndrome and its components identified by an increased neck circumference and waist circumference. Neck circumference has the same power as waist circumference for identifying metabolic disorders in a Chinese population.
+View at link.springer.com
+Cited by 68
+Related articles
+All 4 versions
+
+Measurement of neck circumference and its correlation with body composition in a sample of students in São Paulo, Brazil
+Claudia Andrade Coutinho, Carlos Alberto Longui, Osmar Monte, Wolney Conde, Cristiane Kochi
+Hormone research in paediatrics 82 (3), 179-186, 2014
+Purpose:
+The purpose of this study was to verify the correlation between neck circumference (NC) and body mass index (BMI) in children, and to determine NC percentiles for Brazilian children.
+Methods:
+The subjects of this cross-sectional study were students between the ages of 6 and 19 years from five schools in São Paulo, Brazil. Clinical and anthropometric data were collected from the students from April 2011 to June 2012. NC was measured at the level of the cricoid cartilage. We calculated Pearson correlation coefficients between NC and other indices of obesity with Sigma Stat 3.5. NC percentiles were produced using the LMS (lambda, mu, and sigma) method (STATA 12.0).
+Results:
+Among 2,794 students, 49.9% were male. NC was significantly correlated with age, BMI, waist circumference (WC), and body fat percentage (% BF). The NC of boys was greater than that of girls. The NC curves of smoothed 3rd, 10th, 25th, 50th, 75th, 90th, and 97th percentiles were constructed by age and sex.
+Conclusions:
+NC can be used in the assessment of obesity in childhood. There was a positive correlation between NC and BMI, WC and% BF. This study was the first to provide NC percentiles for children in Brazil.
